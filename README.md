@@ -24,6 +24,7 @@ O dataset utilizado contém informações de transações de um e-commerce, incl
 
 ## Estrutura do Projeto
 
+```text
 ecommerce-sql-analysis/
 │
 ├── data/
@@ -66,6 +67,7 @@ ecommerce-sql-analysis/
 │
 ├── ecommerce.db
 └── README.md
+```
 
 ---
 
