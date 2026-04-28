@@ -147,6 +147,15 @@ Isso indica a necessidade de estratégias distintas, como programas de fideliza�
 
 ---
 
+## Principais Insights
+
+- A receita está altamente concentrada no Reino Unido
+- Existe dependência significativa de poucos clientes de alto valor
+- A maior parte dos clientes é recorrente
+- Existem diferentes perfis de clientes com comportamentos distintos
+
+---
+
 ## Tecnologias Utilizadas
 
 - SQL (SQLite)
