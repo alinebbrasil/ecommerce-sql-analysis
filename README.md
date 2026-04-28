@@ -22,6 +22,16 @@ O dataset utilizado contém informações de transações de um e-commerce, incl
 
 ---
 
+## Fonte dos Dados
+
+Os dados utilizados neste projeto são provenientes do dataset público "Online Retail", disponível no UCI Machine Learning Repository:
+
+https://archive.ics.uci.edu/ml/datasets/Online+Retail
+
+O dataset contém transações reais de um e-commerce baseado no Reino Unido, registradas entre 2010 e 2011.
+
+---
+
 ## Estrutura do Projeto
 
 ```text
